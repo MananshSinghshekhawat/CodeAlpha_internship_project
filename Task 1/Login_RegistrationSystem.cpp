@@ -43,7 +43,7 @@ int Registration()
 
     if(choice == 1)
     {
-        std::cout<<".............Please enter your credentials for registration......\n";
+        std::cout<<"Please enter your credentials for registration\n";
         std::string name , pass;
         std::cout<<"Enter the username :";
         std::cin>>name;
